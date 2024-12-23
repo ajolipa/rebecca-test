@@ -8,8 +8,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Boo!",
+              "text": "Boo! lalalalalalal",
               "bold": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "this is a test",
+              "color": "#a04040"
             }
           ]
         }
