@@ -4,11 +4,11 @@
   "created_by": "ajolipa",
   "title": "Event 2",
   "slug": "event-2",
-  "updated_at": "2024-12-23T17:31:11.169Z",
+  "updated_at": "2024-12-23T17:31:39.692Z",
   "updated_by": "ajolipa",
   "parent": "a79086c2-119b-4d57-bb80-4d85fff73c7a",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "90d94231-02c7-43e8-a62c-08f1654114ba"
   }
