@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "ab99267e-9cd6-45a9-8727-a6e983c39394": {
+      "label": "File 3",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The third event ever."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Event 3",
+  "created_at": "2024-12-23T17:40:03.516Z",
+  "created_by": "ajolipa",
+  "updated_at": "2024-12-23T17:40:03.516Z",
+  "updated_by": "ajolipa"
+}
