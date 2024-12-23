@@ -7,13 +7,35 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "event",
+      "uuid": "2c7aac88-142a-4ac0-ac1c-f5f000c39c53",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2024-12-23T16:44:36.394Z",
   "created_by": "ajolipa",
   "title": "Event 1",
   "slug": "event-1",
-  "updated_at": "2024-12-23T17:30:24.685Z",
+  "updated_at": "2024-12-23T17:47:36.190Z",
   "updated_by": "ajolipa",
   "parent": "a79086c2-119b-4d57-bb80-4d85fff73c7a",
   "autogenerate": {
