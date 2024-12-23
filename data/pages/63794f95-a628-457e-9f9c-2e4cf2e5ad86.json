@@ -1,12 +1,25 @@
 {
   "content": [
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "2c7aac88-142a-4ac0-ac1c-f5f000c39c53",
       "includes": [
         "media",
         "annotations",
         "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
       ]
     },
     {
