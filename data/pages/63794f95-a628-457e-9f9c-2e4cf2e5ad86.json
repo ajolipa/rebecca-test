@@ -1,14 +1,24 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "event",
+      "uuid": "2c7aac88-142a-4ac0-ac1c-f5f000c39c53",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ]
+    }
+  ],
   "created_at": "2024-12-23T17:40:03.958Z",
   "created_by": "ajolipa",
   "title": "Event 3",
   "slug": "event-3",
-  "updated_at": "2024-12-23T17:40:03.958Z",
+  "updated_at": "2024-12-23T17:40:32.959Z",
   "updated_by": "ajolipa",
   "parent": "a79086c2-119b-4d57-bb80-4d85fff73c7a",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "2c7aac88-142a-4ac0-ac1c-f5f000c39c53"
   }
