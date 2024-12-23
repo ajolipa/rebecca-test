@@ -1,20 +1,6 @@
 {
   "content": [
     {
-      "type": "event",
-      "uuid": "595bd2e1-0e4f-4ac7-ac02-08143fd1fc45",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -27,7 +13,7 @@
   "created_by": "ajolipa",
   "title": "Event 1",
   "slug": "event-1",
-  "updated_at": "2024-12-23T17:06:56.733Z",
+  "updated_at": "2024-12-23T17:29:41.258Z",
   "updated_by": "ajolipa",
   "parent": "a79086c2-119b-4d57-bb80-4d85fff73c7a",
   "autogenerate": {
